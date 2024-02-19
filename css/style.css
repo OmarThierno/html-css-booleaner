@@ -79,3 +79,26 @@ tr:nth-child(odd) {
   background-color: #D6EEEE;
 }
 
+/* footer */
+.title-footer {
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.square {
+  width: 400px;
+  height: 300px;
+  color: white;
+  font-size: 30px;
+  padding: 20px 10px;
+  margin-bottom: 10px;
+}
+
+.container-img-1 {
+  background-image: url("../img/monitor.jpg");
+  background-size: cover;
+}
+
+.container-img-2 {
+  background-image: url("../img/graph.jpg");
+}
