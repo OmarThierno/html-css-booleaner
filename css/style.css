@@ -4,9 +4,6 @@
   font-family: Arial;
 }
 
-body {
-  margin-left: 10px;
-}
 
 /* Header */
 header {
@@ -15,7 +12,6 @@ header {
   background-size: 390px;
   background-color: rgb(72, 137, 243);
   padding-top: 40px;
-  margin-left: -10px;
 }
 
 .booleaner-logo {
@@ -24,6 +20,10 @@ header {
 }
 
 /*Main */
+
+main, footer {
+  margin-left: 10px;
+}
 .main-title {
   font-size: 35px;
   width: 900px;
